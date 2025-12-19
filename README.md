@@ -5,8 +5,10 @@
 | :--- | :--- | :--- |
 | 프로젝트명 | Back-End | 2024.01 ~ |
 
+Languages and Tools
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=yg35454906@gmail.com&show_icons=true&theme=radial)
+![Stats](https://github-readme-stats.vercel.app/api?username=ParkYuGeun&show_icons=true&theme=radial)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yg35454906@gmail.com&layout=compact&theme=radial)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkYuGeun&layout=compact&theme=radial)
