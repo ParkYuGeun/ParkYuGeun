@@ -12,4 +12,4 @@ Languages and Tools
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParkYuGeun&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkYuGeun&layout=compact&theme=radial)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkYuGeun&layout=compact&theme=vision-friendly-dark)
