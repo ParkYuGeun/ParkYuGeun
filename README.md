@@ -5,7 +5,7 @@
 > 꾸준함이 무기입니다!
 
 [![Mail](https://img.shields.io/badge/Mail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:yg35454906@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](01035454906)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/15e21d767e5c801ebff8c799610f6954)
 
 ### Projects
 | Project Name | Role | Period |
