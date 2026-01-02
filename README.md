@@ -8,7 +8,7 @@
 ### Projects
 | Project Name | Role | Period |
 | :--- | :--- | :--- |
-| 프로젝트명 | Back-End | 2024.01 ~ |
+| 프로젝트명 | :--- | :--- |
 
 contacts
 
