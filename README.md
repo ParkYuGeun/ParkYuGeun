@@ -8,7 +8,12 @@
 ### Projects
 | Project Name | Role | Period |
 | :--- | :--- | :--- |
+| VRshooting2 | 개발 및 기획 |  |
+| Iot를 탑재한 활통탐지 펫캠 및 자동배식기 | 프론트엔드 및 총무 |  |
 | 프로젝트명 | :--- | :--- |
+| 프로젝트명 | :--- | :--- |
+| 프로젝트명 | :--- | :--- |
+
 
 contacts
 
@@ -21,11 +26,7 @@ Languages and Tools
 [![Unity](https://img.shields.io/badge/Unity-222222?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/) 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
+
+
 </div>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkYuGeun&layout=compact&theme=vision-friendly-dark)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ParkYuGeun&show_icons=true&theme=radical)
-
 
